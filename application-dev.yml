@@ -1,1 +1,5 @@
-来了老弟
+mysql:
+  user: jiashun
+
+person:
+  name: xiaoliu
